@@ -1,0 +1,11 @@
+#Binarie for programs and plugins
+*.exe
+*.exe~
+*.so
+*.dylib
+
+#Test binary, built with 'go test -c'
+*.test
+
+#output of the go coverage tool, specifically when used with LiteIDE
+*.out
